@@ -1,0 +1,2 @@
+// find amma specific
+db.school.find({ name: "Holberton school" })
